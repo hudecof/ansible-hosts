@@ -10,6 +10,6 @@
 - name: Create /etc/hosts
   template:
     src: hosts.j2
-    dest: /etc/hosts
+    dest: "{{ hosts_file }}"
   tags:
     - hosts
