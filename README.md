@@ -1,4 +1,4 @@
-# ansible-role-hosts
+# ansible-hosts
 
 Based on **reallyenglish.hosts** with few minor patches.
 
@@ -29,7 +29,7 @@ None
 ```yaml
 - hosts: localhost
   roles:
-    - ansible-role-hosts
+    - hudecof.hosts
   vars:
     hosts_enable_localhost: true
     hosts_extra_localhosts:
