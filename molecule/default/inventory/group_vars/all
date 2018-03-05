@@ -7,3 +7,5 @@ hosts_map:
 hosts_extra_localhosts:
   - server00
   - server00.example.com
+
+hosts_file: /tmp/hosts
