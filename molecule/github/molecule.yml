@@ -17,6 +17,9 @@ provisioner:
     destroy: ../default/destroy.yml
     prepare: ../default/prepare.yml
     converge: playbook.yml
+  inventory:
+    links:
+      group_vars: ../default/inventory/group_vars/
   lint:
     name: ansible-lint
 scenario:

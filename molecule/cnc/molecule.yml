@@ -19,6 +19,9 @@ provisioner:
     converge: playbook.yml
   lint:
     name: ansible-lint
+  inventory:
+    links:
+      group_vars: ../default/inventory/group_vars/
 scenario:
   name: cnc
 verifier:
