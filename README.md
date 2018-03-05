@@ -1,5 +1,8 @@
 # ansible-role-hosts
 
+Based on **reallyenglish.hosts** with few minor patches.
+
+
 Manages `/etc/hosts`
 
 # Requirements

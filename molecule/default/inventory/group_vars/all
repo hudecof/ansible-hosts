@@ -1,0 +1,9 @@
+---
+
+hosts_map: 
+  '192.168.190.43': ['server01', 'server01.example.com' ]
+  '192.168.190.44': ['server02', 'server02.example.com' ]
+
+hosts_extra_localhosts:
+  - server00
+  - server00.example.com

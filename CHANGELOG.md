@@ -1,3 +1,9 @@
+## Release 1.2.1
+
+* [feature] ip addreses are sorted
+* [feature] added ansible_mananegd 
+# [feature] added tags
+
 ## Release 1.2.0
 
 * a505444 [feature] support list of extra host name for 127.0.0.1 (#11)
