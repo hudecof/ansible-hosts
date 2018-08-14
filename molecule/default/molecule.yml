@@ -16,7 +16,7 @@ provisioner:
     name: ansible-lint
   inventory:
     links:
-      group_vars: ../inventory/group_vars/
+      group_vars: inventory/group_vars/
 scenario:
   name: default
 verifier:
