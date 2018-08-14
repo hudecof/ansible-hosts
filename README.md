@@ -65,5 +65,6 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 # Author Information
 
 Tomoyuki Sakurai <tomoyukis@reallyenglish.com>
+Peter Hudec <peter@home.hudecof.net>
 
 This README was created by [ansible-role-init](https://gist.github.com/trombik/d01e280f02c78618429e334d8e4995c0)
